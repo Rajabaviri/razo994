@@ -12,7 +12,12 @@ public class HelloWorld{
 	System.out.println("Hello Raja, welcome to java world");
         int a=10;
 	int b=20;
+<<<<<<< HEAD
          int c=50;
+=======
+	string s="Hello"
+	
+>>>>>>> 724c053e374a76601770623819d2edd377c34724
 
  }
 
